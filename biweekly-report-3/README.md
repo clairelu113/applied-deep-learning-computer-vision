@@ -1,1 +1,10 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/mkANUJWP)
+# Biweekly Report
+
+# Claire Lu
+
+I explore and implement the Adam optimization algorithm, and apply the implementation to train a CNN for comparative analysis.
+
+Citation Request:
+https://arxiv.org/abs/1412.6980
+
+https://machinelearningmastery.com/adam-optimization-algorithm-for-deep-learning/
