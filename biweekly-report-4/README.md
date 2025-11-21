@@ -1,1 +1,8 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/Okl42Hgu)
+# Biweekly Report
+
+# Claire Lu
+
+Batch Normalization stabilizes the internal feature distributions, reducing shifts in mean and variance across training epochs. This stabilization leads to smoother optimization and faster convergence. To demonstrate, I'll compare training dynamics, gradiants, and internal covariate shift between models with and without batch normalization.
+
+Citation Request:
+https://arxiv.org/pdf/1502.03167
